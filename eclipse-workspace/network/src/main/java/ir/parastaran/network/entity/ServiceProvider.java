@@ -5,7 +5,7 @@ import java.util.List;
 
 import ir.parastaran.network.constant.Degree;
 
-public class ServiceProvider extends ServicePeople {
+public class ServiceProvider extends ServiceMan {
 	
 	private Education education;
 	private Degree degree;

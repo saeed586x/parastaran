@@ -2,7 +2,7 @@ package ir.parastaran.network.entity;
 
 import java.util.Date;
 
-public abstract class ServicePeople {
+public abstract class ServiceMan {
 	private Long id;
 	private String mobileNo;
 	private String name;
@@ -11,5 +11,4 @@ public abstract class ServicePeople {
 	private Date birthday;
 	private boolean sex;
 	private int score;
-
 }
